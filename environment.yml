@@ -1,4 +1,4 @@
-name: cs2109s-ay2223s1
+name: cs2109s
 channels:
   - conda-forge
   - pytorch
