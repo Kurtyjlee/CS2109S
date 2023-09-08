@@ -16,7 +16,8 @@ class Node:
             act, 
             state, 
             g_n: float = 0.0, 
-            h_n: float = 0.0):
+            h_n: float = 0.0
+        ):
 
         self.parent = parent # where am I from
         self.act = act # how to get here
