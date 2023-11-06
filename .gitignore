@@ -1,7 +1,12 @@
-*.pdf
+# configs
 .vscode/
 __pycache__/
 .ipynb_checkpoints
-imgs/
+
+# Artefacts
 *.csv
+*.pdf
+imgs/
 */MNIST/**/*
+*.gz
+*/cifar-10-batches-py/**/*
