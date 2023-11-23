@@ -11,3 +11,7 @@ imgs/
 *.gz
 */cifar-10-batches-py/**/*
 .DS_Store
+*/.ipynb_checkpoints/**/*
+*/.pyt
+
+
